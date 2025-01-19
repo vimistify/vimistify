@@ -8,7 +8,7 @@
 Here are the technologies and tools I work with:
 
 - **Languages**: Python, JavaScript, C++, Java
-- **Frontend**: HTML, CSS, React.js, Flutter
+- **Frontend**: HTML, CSS, React.js
 - **Database**: MySQL
 - **Tools**: VS Code, Git
 - **Cloud**: Google Cloud, Azure
