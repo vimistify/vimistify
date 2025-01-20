@@ -35,8 +35,20 @@
 <table align="center" class="table table-dark">
   <tr bg-dark>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
       <br>React JS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
+      <br>CSS
     </td>
   </tr>
   <tr>
