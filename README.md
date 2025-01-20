@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd83f6&height=90&section=header"/>
 <h3 align="center">hey, I'm Mansi Ruhil</h3>
 <h5 align="center">Here's a glimpse of my projects and the vision that drives me forward</h5>
 <img align="right" width="400" src="https://images.ctfassets.net/wfutmusr1t3h/6eWM76bx8skN2B4Jpvkcil/3ccdafea4229f02802abbd9fc6634a3b/Certifiedtocat_full__2_.svg">
@@ -69,9 +69,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mansiruhil&theme=synthwave-84&true&hide_border=true" />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansiruhil&show_icons=true&locale=en&layout=compact"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mansiruhil&show_icons=true&locale=en"/></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mansiruhil&show_icons=true&locale=en&layout=compact"/>
 
 </details>
 
