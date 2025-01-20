@@ -3,7 +3,7 @@
 <h5 align="center">Here's a glimpse of my projects and the vision that drives me forward</h5>
 <img align="right" width="400" src="https://images.ctfassets.net/wfutmusr1t3h/6eWM76bx8skN2B4Jpvkcil/3ccdafea4229f02802abbd9fc6634a3b/Certifiedtocat_full__2_.svg">
 <br>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=mansiruhil&color=red" alt="Total Github views" />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=mansiruhil&color=blue" alt="Total Github views" />
   <br>
   
 ## About Me:
