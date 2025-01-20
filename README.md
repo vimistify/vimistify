@@ -68,15 +68,15 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mansiruhil&theme=synthwave-84&true&hide_border=true" />
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mansiruhil&show_icons=true&locale=en&layout=compact"/>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mansiruhil&show_icons=true&locale=en&layout=compact"/>
+</div>
 </details>
 
 <h3 align="left">Support:</h3>
 
 <p><a href="https://buymeacoffee.com/mansiruhil1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/></a></p><br><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd83f6&height=80&section=footer"/>
 
 
