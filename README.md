@@ -83,7 +83,7 @@
       <br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=jupyter" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=jupyter notebook" alt="icon" width="55" height="55" />
       <br>Jupyter Notebook
     </td>
     <td align="center" width="90">
