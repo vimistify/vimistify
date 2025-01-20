@@ -1,5 +1,5 @@
 <h3 align="center">Hi, I'm Mansi Ruhil</h3>
-<h5 align="center">computer science student, building skills in software development from hackathon to open-source.</h5>
+<h5 align="center">computer science student</h5>
 <img align="right" width="400" src="https://images.ctfassets.net/wfutmusr1t3h/6eWM76bx8skN2B4Jpvkcil/3ccdafea4229f02802abbd9fc6634a3b/Certifiedtocat_full__2_.svg">
 <br>
 
