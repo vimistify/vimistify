@@ -57,8 +57,8 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=google cloud" alt="icon" width="55" height="55" />
-      <br>Google Cloud
+      <img src="https://skillicons.dev/icons?i=cloud" alt="icon" width="55" height="55" />
+      <br>cloud
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="55" height="55" />
