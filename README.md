@@ -63,14 +63,14 @@
 <details>
 <summary>Github Stats:</summary>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansiruhil&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansiruhil&show_icons=true&layout=compact)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mansiruhil&theme=synthwave-84&true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mansiruhil&layout=compact-84&true&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mansiruhil&show_icons=true&locale=en&theme=synthwave"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mansiruhil&show_icons=true&locale=en&layout=compact"/>
 </div>
 
 </details>
