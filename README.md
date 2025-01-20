@@ -50,11 +50,15 @@
       <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
       <br>CSS
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="55" height="55" />
+      <br>Flutter
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="55" height="55" />
-      <br>AWS
+      <img src="https://skillicons.dev/icons?i=google cloud" alt="icon" width="55" height="55" />
+      <br>Google Cloud
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="55" height="55" />
@@ -67,6 +71,24 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
       <br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c++" alt="icon" width="55" height="55" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=jupyter" alt="icon" width="55" height="55" />
+      <br>Jupyter Notebook
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
+      <br>Python
     </td>
   </tr>
 </table>
