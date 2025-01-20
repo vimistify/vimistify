@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
-<h3 align="center">Hello World</h3>
+<h3 align="center">hey, I'm Mansi Ruhil</h3>
 <h5 align="center">Here's a glimpse of my projects and the vision that drives me forward</h5>
 <img align="right" width="400" src="https://images.ctfassets.net/wfutmusr1t3h/6eWM76bx8skN2B4Jpvkcil/3ccdafea4229f02802abbd9fc6634a3b/Certifiedtocat_full__2_.svg">
 <br>
@@ -9,18 +9,20 @@
 ## About Me:
 
 - Frontend Web Developer | Technical Campus Hustler [@hustlerfellowship](https://www.linkedin.com/company/hustlersfellowship/)
+  
 - How to reach me: [Mail me](mailto:mansiruhil99@gmail.com)
+  
 - Building skills from Hackathon to OpenSource
-- **2025 Vision Board**:
-  (1) Ace **DSA**
-  (2) Dive Deeper into **React** and **Next.js**
-  (3) Learn **TypeScript** and enhance my frontend skills
-- FunFact: During Hackathon, I spent hours coding, only to realize my entire project was built on the wrong framework because who needs documentation, right?
 
-<details>
-<summary>GSSOC(25) contributor Badges: </summary>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-</details>
+- **2025 Vision Board**:
+  
+  (1) Ace **DSA**
+  
+  (2) Dive Deeper into **React** and **Next.js**
+  
+  (3) Learn **TypeScript** and enhance my frontend skills
+  
+- FunFact: During Hackathon, I spent hours coding, only to realize my entire project was built on the wrong framework because who needs documentation, right?
   
 **HacktoberFest2024**
 
@@ -31,58 +33,18 @@
 <table align="center" class="table table-dark">
   <tr bg-dark>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
-      <br>Next JS
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
       <br>React JS
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
-      <br>Express JS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
-      <br>Node JS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="55" height="55" />
-      <br>Prisma
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="55" height="55" />
-      <br>PostgreSQL
-    </td>
   </tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="55" height="55" />
-      <br>Redux
-    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="55" height="55" />
       <br>AWS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="55" height="55" alt="md" />
-      <br>Angular
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="55" height="55" />
       <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kubernetes" alt="icon" width="55" height="55" />
-      <br>Kubernetes
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
@@ -91,10 +53,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
       <br>Figma
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="55" height="55" />
-      <br>Vite
     </td>
   </tr>
 </table>
