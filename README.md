@@ -25,6 +25,7 @@
   (3) Learn **TypeScript** and enhance my frontend skills
   
 - FunFact: During Hackathon, I spent hours coding, only to realize my entire project was built on the wrong framework because who needs documentation, right?
+
 **HacktoberFest2024**
 
 [![An image of @mansiruhil13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mansiruhil13)](https://holopin.io/@mansiruhil13)
@@ -64,13 +65,13 @@
       <br>Docker
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
-      <br>Figma
-    </td>
+  <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
+  <br>Git
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
+  <br>Figma
+</td>
   </tr>
   <tr>
     <td align="center" width="90">
