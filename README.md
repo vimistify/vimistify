@@ -8,7 +8,9 @@
   
 ## About Me:
 
-- Frontend Web Developer | Technical Campus Hustler [@hustlerfellowship](https://www.linkedin.com/company/hustlersfellowship/)
+- Frontend Web Developer
+
+- Technical Campus Hustler [@hustlerfellowship](https://www.linkedin.com/company/hustlersfellowship/)
   
 - How to reach me: [Mail me](mailto:mansiruhil99@gmail.com)
   
