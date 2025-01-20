@@ -57,8 +57,8 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cloud" alt="icon" width="55" height="55" />
-      <br>cloud
+      <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud icon" width="55" height="55" />
+      <br>Google Cloud
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="55" height="55" />
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c++" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++ icon" width="55" height="55" />
       <br>C++
     </td>
     <td align="center" width="90">
