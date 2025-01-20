@@ -1,11 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 <h3 align="center">Hi, I'm thrilled to share my journey as a tech enthusiast and learner</h3>
 <h5 align="center">Here's a glimpse of my projects and the vision that drives me forward</h5>
-<img
-    src="https://github.com/ShivanshPlays/ShivanshPlays/blob/main/giphy.gif"
-    alt="shivansh"
-    style="height: 25px; max-width: 25px; vertical-align: middle;"
-  />
 <img align="right" width="400" src="https://images.ctfassets.net/wfutmusr1t3h/6eWM76bx8skN2B4Jpvkcil/3ccdafea4229f02802abbd9fc6634a3b/Certifiedtocat_full__2_.svg">
 <br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mansiruhil&color=red" alt="Total Github views" />
