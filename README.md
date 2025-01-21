@@ -7,7 +7,7 @@
   
   <br>
 
-## About Me:
+**About Me**:
 
 - Frontend Web Developer
 
