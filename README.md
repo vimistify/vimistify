@@ -61,10 +61,6 @@
       <br>Google Cloud
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="55" height="55" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
   <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
   <br>Git
 </td>
