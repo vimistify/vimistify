@@ -23,7 +23,7 @@
   
   (3) Learn **TypeScript** and enhance my frontend skills
 
-  
+  <br>
 
 **HacktoberFest2024**
 
