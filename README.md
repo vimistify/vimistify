@@ -14,8 +14,6 @@
 - Technical Campus Hustler [@hustlerfellowship](https://www.linkedin.com/company/hustlersfellowship/)
   
 - How to reach me: [Mail me](mailto:mansiruhil99@gmail.com)
-  
-- Building skills from Hackathon to OpenSource
 
 - **2025 Vision Board**:
   
@@ -25,7 +23,7 @@
   
   (3) Learn **TypeScript** and enhance my frontend skills
   
-- FunFact: During Hackathon, I spent hours coding, only to realize my entire project was built on the wrong framework because who needs documentation, right?
+- FunFact: during Hackathon, I spent hours coding, only to realize my entire project was built on the wrong framework because who needs documentation
 
 **HacktoberFest2024**
 
