@@ -68,7 +68,7 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
   <br>Figma
 </td>
-  </tr>
+</tr>
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp" alt="C++ icon" width="55" height="55" />
