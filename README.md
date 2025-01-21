@@ -57,20 +57,6 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud icon" width="55" height="55" />
-      <br>Google Cloud
-    </td>
-    <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
-  <br>Git
-</td>
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
-  <br>Figma
-</td>
-</tr>
-  <tr>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp" alt="C++ icon" width="55" height="55" />
       <br>C++
     </td>
