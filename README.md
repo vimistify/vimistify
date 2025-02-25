@@ -22,8 +22,7 @@
   (2) Dive Deeper into **React** and **Next.js**
   
   (3) Learn **TypeScript** and enhance my frontend skills
-
-- My Website: [Click Here](https://mansiiii.vercel.app)
+  
 <br>
 
 **HacktoberFest2024**
