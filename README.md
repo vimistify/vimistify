@@ -9,7 +9,7 @@
 
 **About Me**:
 
-- Frontend Web Developer
+- Web Developer
 
 - Technical Campus Hustler [@hustlerfellowship](https://www.linkedin.com/company/hustlersfellowship/)
   
