@@ -23,8 +23,7 @@
   
   (3) Learn **TypeScript** and enhance my frontend skills
 
-- My Website: <a href="https://mansiiii.vercel.app/"> </a>
-
+- My Website: [Click Here](https://mansiiii.vercel.app)
 <br>
 
 **HacktoberFest2024**
