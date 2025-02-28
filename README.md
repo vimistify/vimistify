@@ -9,9 +9,9 @@
 
 **About Me**:
 
-- Web Developer
-
 - 2nd yr cs grad
+
+- Exploring Web Development and UI/UX design
 
 - Technical Campus Hustler [@hustlerfellowship](https://www.linkedin.com/company/hustlersfellowship/)
   
