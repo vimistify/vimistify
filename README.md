@@ -62,10 +62,6 @@
       <br>C++
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="55" height="55" />
-      <br>Typesript
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
       <br>Python
     </td>
