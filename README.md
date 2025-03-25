@@ -5,13 +5,14 @@
 <br>
 
 <br>
-**About Me**:
+
+**About ME**
 
 - cs ug '27
   
 - How to reach me: [Mail me](mailto:mansiruhil99@gmail.com)
 
-- **2025 Vision Board**:
+- **2025 Vision Board**
   
   (1) Ace **DSA**
   
