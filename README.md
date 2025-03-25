@@ -9,11 +9,7 @@
 
 **About Me**:
 
-- 2nd yr cs grad
-
-- Exploring Web Development and UI/UX design
-
-- Technical Campus Hustler [@hustlerfellowship](https://www.linkedin.com/company/hustlersfellowship/)
+- cs ug '27
   
 - How to reach me: [Mail me](mailto:mansiruhil99@gmail.com)
 
