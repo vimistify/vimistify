@@ -10,9 +10,11 @@
 
 - cs ug '27
   
-- How to reach me: [Mail me](mailto:mansiruhil99@gmail.com)
+- How to reach me: [Mail Me](mailto:mansiruhil99@gmail.com)
 
-- Portfolio: [portfolio](https://mansiruhil.vercel.app/)
+- Portfolio: [Portfolio](https://mansiruhil.vercel.app/)
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mansi-ruhil-7a00a0228/)
 
 - **2025 Vision Board**
   
