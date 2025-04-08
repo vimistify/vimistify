@@ -8,7 +8,7 @@
 
 **About ME**
 
-- cs ug '27 | Banasthali Vidyapith University
+- cs ug (2023 - 2027)
   
 - How to reach me: [Mail Me](mailto:mansiruhil99@gmail.com)
 
