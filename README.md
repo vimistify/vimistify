@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd83f6&height=90&section=header"/>
-![Banner](https://imgur.com/a/RpxyDcD)
+<img src="https://imgur.com/a/RpxyDcD" width="100%" />
 
 <h5 align="center">Here's a glimpse of my projects and the vision that drives me forward</h5>
 
