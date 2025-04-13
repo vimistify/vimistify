@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd83f6&height=90&section=header"/>
-![My Banner](https://i.postimg.cc/tRLG2Dhf/home.png)
+<img src="https://i.postimg.cc/tRLG2Dhf/home.png" alt="My Banner" width="100%" />
 
 <h5 align="center">Here's a glimpse of my projects and the vision that drives me forward</h5>
 
