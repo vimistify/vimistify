@@ -18,6 +18,8 @@
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mansi-ruhil-7a00a0228/)
 
+- Peerlist: [Peerlist](https://peerlist.io/mansiruhil)
+
 - **2025 Vision Board**
   
   (1) Ace **DSA**
