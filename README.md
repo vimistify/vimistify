@@ -10,7 +10,7 @@
 
 **About ME**
 
-- cs ug (2023 - 2027)
+- cs ug • banasthali vidyapith university • 2023-27
   
 - How to reach me: [Mail Me](mailto:mansiruhil99@gmail.com)
 
