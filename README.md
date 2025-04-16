@@ -29,7 +29,11 @@
 [![An image of @mansiruhil13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mansiruhil13)](https://holopin.io/@mansiruhil13)
 
 <details>
-<summary>Tools & Technology</summary>
+<summary>
+  
+  ## Tools & Technology 
+  
+  </summary>
 <table align="center" class="table table-dark">
   <tr bg-dark>
     <td align="center" width="90">
