@@ -24,7 +24,7 @@
   
 <br>
 
-**HacktoberFest2024**
+## HacktoberFest2024
 
 [![An image of @mansiruhil13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mansiruhil13)](https://holopin.io/@mansiruhil13)
 
