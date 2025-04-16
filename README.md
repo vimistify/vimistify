@@ -89,7 +89,11 @@
 </details>
 
 <details>
-<summary>Github Stats:</summary>
+<summary>
+  
+  ## Github Stats:
+  
+  </summary>
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vimistify&show_icons=true&layout=compact)
