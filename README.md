@@ -31,7 +31,7 @@
 <details>
 <summary>
   
-  ## Tools & Technology 
+  **Tools & Technology**
   
   </summary>
 <table align="center" class="table table-dark">
@@ -91,9 +91,9 @@
 <details>
 <summary>
   
-  ## Github Stats:
+  **Github Stats:**
   
-  </summary>
+</summary>
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vimistify&show_icons=true&layout=compact)
