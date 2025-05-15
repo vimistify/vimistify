@@ -4,6 +4,7 @@
 <br>
 
 <br>
+<br>
 
 **About ME**
 
@@ -19,6 +20,7 @@
   
   (3) Learn **TypeScript** and enhance my frontend skills
   
+<br>
 <br>
 <br>
 <br>
