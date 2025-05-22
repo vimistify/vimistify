@@ -89,16 +89,16 @@
 <summary>Github Stats:</summary>
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vimistify&show_icons=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansiruhil&show_icons=true&layout=compact)
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vimistify&layout=compact-84&true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mansiruhil&layout=compact-84&true&hide_border=true" />
 </div>
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vimistify&show_icons=true&locale=en&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mansiruhil&show_icons=true&locale=en&layout=compact"/>
 </div>
 
 </details>
