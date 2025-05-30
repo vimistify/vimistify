@@ -71,8 +71,6 @@
       <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
       <br>Git
     </td>
-  </tr>
-  <tr>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
       <br>Figma
