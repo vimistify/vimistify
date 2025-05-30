@@ -11,14 +11,6 @@
 - cs ug '27
   
 - How to reach me: [Mail Me](mailto:mansiruhil99@gmail.com)
-
-- **2025 Vision Board**
-  
-  (1) Ace **DSA**
-  
-  (2) Dive Deeper into **React** and **Next.js**
-  
-  (3) Learn **TypeScript** and enhance my frontend skills
   
 <br>
 <br>
@@ -70,6 +62,10 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
       <br>Node JS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="55" height="55" />
+      <br>TypeScipt
     </td>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
