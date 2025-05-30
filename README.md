@@ -12,7 +12,7 @@
   
 - How to reach me: [Mail Me](mailto:mansiruhil99@gmail.com)
 
-## I do DSA 
+**I do DSA**
 
 ```python
 def conquer_dsa():
