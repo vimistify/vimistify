@@ -38,6 +38,10 @@
       <br>Javascript
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="55" height="55" />
+      <br>TypeScipt
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
       <br>CSS
     </td>
@@ -62,10 +66,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
       <br>Node JS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="55" height="55" />
-      <br>TypeScipt
     </td>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
