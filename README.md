@@ -4,7 +4,6 @@
 <br>
 
 <br>
-<br>
 
 **About ME**
 
@@ -23,8 +22,6 @@ def conquer_dsa():
         optimize(solution)
 ```
 
-<br>
-<br>
 <br>
 <br>
 
