@@ -11,7 +11,18 @@
 - cs ug '27
   
 - How to reach me: [Mail Me](mailto:mansiruhil99@gmail.com)
-  
+
+## I do DSA 
+
+```python
+def conquer_dsa():
+    for problem in problems:
+        read(problem)
+        think(problem)
+        solve(problem)
+        optimize(solution)
+```
+
 <br>
 <br>
 <br>
